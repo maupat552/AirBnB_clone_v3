@@ -156,9 +156,5 @@ No known bugs at this time.
 ## Authors
 Mercy Aupat
 =======
-
->>>>>>> aac5acdaf910012588914eb3717c1dfbc215cbd8
-Second part of Airbnb: Joann Vuong
-
 ## License
 Public Domain. No copy write protection. 
